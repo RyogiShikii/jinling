@@ -1,0 +1,70 @@
+.MainHeader {
+  text-align: center;
+}
+/*css of header*/
+.ant-menu-horizontal {
+  line-height: 80px;
+  font-size: xx-large;
+  background-color:#9b0413;
+  border-bottom: none;
+}
+
+.ant-menu-item{
+  padding: 0 55px;
+}
+
+/*ccs of homeContent*/
+.homeBackground {
+  text-align: center;
+  font-size: xx-large;
+  background-image: url('./assets/main-background.jpg');
+  background-size: cover;
+  height:22em;
+}
+
+.homeBackground h1,p {
+  color: #9b0413;
+}
+
+.serviceCard_1{
+  height:30em;
+  background-image: url('./assets/content-card-1.jpg');
+  background-size:cover;
+  color: white;
+}
+
+.serviceCard_2{
+  height:30em;
+  background-image: url('./assets/content-card-2.jpg');
+  background-size:cover;
+  color: white;
+}
+
+.serviceCard_3{
+  height:30em;
+  background-image: url('./assets/content-card-3.jpg');
+  background-size:cover;
+  color: white;
+}
+
+.serviceCard_4{
+  height:30em;
+  background-image: url('./assets/content-card-4.jpg');
+  background-size:cover;
+  color: white;
+}
+
+.serviceCard_content {
+  height: 30em;
+  text-align: center;
+}
+
+/*css of footer*/
+.footer {
+  background-color: #9b0413;
+  text-align: center;
+}
+
+.ant-layout-footer{
+  background: #9b0413;
+}
