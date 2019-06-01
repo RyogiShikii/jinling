@@ -10,6 +10,10 @@
     "react-app-rewire-less": "^2.1.3",
     "react-app-rewired": "^2.1.3",
     "react-dom": "^16.8.6",
+    "react-google-maps": "^9.4.5",
+    "react-image-gallery": "^0.8.17",
+    "react-images": "^0.5.19",
+    "react-photo-gallery": "^7.0.2",
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1"
   },

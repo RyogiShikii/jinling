@@ -10,16 +10,16 @@ class MainHeader extends React.Component{
                     mode='horizontal'
                 >
                     <Menu.Item title='Home'>
-                        <Link>Home</Link>
+                        <Link to='home'>Home</Link>
                     </Menu.Item>
                     <Menu.Item title='Menu'>
-                        <Link>Menu</Link>
+                        <Link to='menu'>Menu</Link>
                     </Menu.Item>
                     <Menu.Item title='Design'>
-                        <Link>Design</Link>
+                        <Link to='design'>Design</Link>
                     </Menu.Item>
                     <Menu.Item title='Contact'>
-                        <Link>Contact</Link>
+                        <Link to='contact'>Contact</Link>
                     </Menu.Item>
                 </Menu>
             </Row>

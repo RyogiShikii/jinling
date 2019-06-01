@@ -1,3 +1,5 @@
+@import "../node_modules/react-image-gallery/styles/css/image-gallery.css";
+
 .MainHeader {
   text-align: center;
 }
@@ -59,6 +61,11 @@
   text-align: center;
 }
 
+/*css of Menu componet*/
+.menuBullet{
+  height: 35em;
+}
+
 /*css of footer*/
 .footer {
   background-color: #9b0413;
@@ -67,4 +74,14 @@
 
 .ant-layout-footer{
   background: #9b0413;
+}
+
+.footerLogo{
+  height: 10em;
+  background-image: url('./assets/logoo.jpg')
+}
+
+/*css of ContactContent*/
+.contactCard {
+  text-align: center;
 }
