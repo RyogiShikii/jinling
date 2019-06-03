@@ -7,7 +7,7 @@
 /*css of header*/
 .ant-menu-horizontal {
   line-height: 150px;
-  font-size: xx-large;
+  font-size: x-large;
   background-color:#750b0b;
   border-bottom: none;
 }
@@ -98,7 +98,8 @@
 
 .footerLogo{
   height: 185px;
-  background-image: url('./assets/logo-s.jpg')
+  background-image: url('./assets/logo-s.jpg');
+  background-size: cover;
 }
 
 /*css of ContactContent*/

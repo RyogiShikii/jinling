@@ -25,16 +25,16 @@ class HomeContent extends React.Component{
                         <Card
                             className='serviceCard_content'
                         >
-                            <h3>Application</h3>
-                            <p><Button><Link to='login'>Start Now</Link></Button></p>
+                            <h3>The best quanlity</h3>
+                            <p><Button><Link to='Menu'>Start Now</Link></Button></p>
                         </Card>
                     </Col>
                     <Col xs={24} sm={24} md={8} lg={11}>
                         <Card
                             className='serviceCard_content'
                         >
-                            <h3>Find Us</h3>
-                            <p><Button><Link to='Location'>Learn More</Link></Button></p>
+                            <h3>Nee design</h3>
+                            <p><Button><Link to='design'>Learn More</Link></Button></p>
                         </Card>
                     </Col>
                     <Col xs={24} sm={24} md={8} lg={11}>
@@ -53,8 +53,8 @@ class HomeContent extends React.Component{
                         <Card
                             className='serviceCard_content'
                         >
-                            <h3>Application</h3>
-                            <p><Button><Link to='login'>Start Now</Link></Button></p>
+                            <h3>cuisine</h3>
+                            <p><Button><Link to='menu'>Start Now</Link></Button></p>
                         </Card>
                     </Col>
                     <Col xs={24} sm={24} md={8} lg={11}>
@@ -62,7 +62,7 @@ class HomeContent extends React.Component{
                             className='serviceCard_content'
                         >
                             <h3>Find Us</h3>
-                            <p><Button><Link to='Location'>Learn More</Link></Button></p>
+                            <p><Button><Link to='contact'>Learn More</Link></Button></p>
                         </Card>
                     </Col>
                     <Col xs={24} sm={24} md={8} lg={11}>

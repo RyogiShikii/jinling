@@ -18,7 +18,7 @@ class MainHeader extends React.Component{
                         </Menu.Item>
                     </Menu>
                 </Col>
-                <Col xs={24} sm={24} md={8} lg={5} className='headLogo'>
+                <Col xs={24} sm={24} md={8} lg={6} className='headLogo'>
                 </Col>
                 <Col xs={24} sm={24} md={8} lg={6}>
                     <Menu
