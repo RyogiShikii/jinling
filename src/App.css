@@ -28,7 +28,7 @@
 
 .headLogo{
   background-image: url('./assets/logo-s.jpg');
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 /*ccs of homeContent*/
@@ -97,8 +97,8 @@
 
 .footerLogo{
   background-image: url('./assets/logo-s.jpg');
-  background-size: cover;
-  height:185px;
+  background-size: 100% 100%;
+  height: 185px;
 }
 
 /*css of ContactContent*/

@@ -11,7 +11,7 @@ import './App.css';
 
 class App extends React.Component {
   render() {
-    const {Header, Footer} = Layout;
+    const {Footer} = Layout;
     return (
       <Router>
         <Layout>
