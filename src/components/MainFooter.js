@@ -6,7 +6,7 @@ class MainFooter extends React.Component{
         return(
             <div>
                 <Row type="flex" justify="center" className='footer'>
-                    <Col xs={18} sm={10} md={10} lg={8} className='footerLogo'> 
+                    <Col xs={18} sm={10} md={10} lg={5} className='footerLogo'>
                     </Col>
                 </Row>
                 <Row type="flex" justify="center" className='footer'>
