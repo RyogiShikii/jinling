@@ -28,7 +28,6 @@
 
 .headLogo{
   background-image: url('./assets/logo-s.jpg');
-  height:185px;
   background-size: cover;
 }
 
@@ -97,9 +96,9 @@
 }
 
 .footerLogo{
-  height: 185px;
   background-image: url('./assets/logo-s.jpg');
   background-size: cover;
+  height:185px;
 }
 
 /*css of ContactContent*/
